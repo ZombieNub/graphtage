@@ -5,3 +5,5 @@ __pycache__
 build/
 dist/
 graphtage.egg-info
+.idea
+.idea/
